@@ -1,0 +1,15 @@
+test_check_url (ProiectFinal.register.Test.test_check_url) ... ok
+test_register_1_ (ProiectFinal.register.Test.test_register_1_) ... ok
+test_register_2_ (ProiectFinal.register.Test.test_register_2_) ... ok
+test_register_3_ (ProiectFinal.register.Test.test_register_3_) ... ok
+test_register_4_ (ProiectFinal.register.Test.test_register_4_) ... ok
+test_register_5_ (ProiectFinal.register.Test.test_register_5_) ... ok
+test_check_url (ProiectFinal.check_url.Test2.test_check_url) ... ok
+test_website_blog (ProiectFinal.check_url.Test2.test_website_blog) ... ok
+test_website_click (ProiectFinal.check_url.Test2.test_website_click) ... ok
+test_website_faq (ProiectFinal.check_url.Test2.test_website_faq) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 135.918s
+
+OK
